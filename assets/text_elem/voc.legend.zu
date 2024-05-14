@@ -1,0 +1,18 @@
+#ZU VOC
+langue:english
+play_btn:Start editor
+outils:tools
+show_text:Show block texture
+add_line:Add a line of tiles
+remove_line:Remove a line of tiles
+apply_grass:Apply grass texture to tile
+apply_cobble:Apply cobble texture to tile
+apply_sand:Apply sand texture to tile
+select_corn:Select corners
+select_tiles:Select tiles
+level_tiles:Level tiles
+map_opt:Map options
+select_opt:Select options
+apply_textu:Apply textures
+save_map:Save map
+alias_map:save.world

@@ -1,0 +1,82 @@
+############################################
+#  _______    _             _       _      #
+# |__   __|  | |           (_)     | |     #
+#    | |_   _| |_ ___  _ __ _  __ _| |     #
+#    | | | | | __/ _ \| '__| |/ _` | |     #
+#    | | |_| | || (_) | |  | | (_| | |     #
+#    |_|\__,_|\__\___/|_|  |_|\__,_|_|     #
+#                                          #
+############################################
+
+# Bienvenue sur fichier de configuration du tutoriel !
+# Ici, vous pourrez custoiser les messages du tuto pour les modifier en jeu.
+# Toutes les lignes qui commencent par '#' et toutes les lignes vident seront ignorées.
+# Attention ! Vous devez mettre le marqueur de fin "end:end" a la fin du fichier
+# sinon vous ne pourrez pas quitter le tuto une fois en jeu !
+# Si vous souaitez supprimer le tuto, enlevez toutes les lignes sauf le marqueur de fin.
+
+# Accueil & presentation
+Bienvenue jeune padawan !
+Je suis Nao, Nao Marvin !
+Je suis ici pour t'apprendre
+a utiliser l'editeur de carte !
+
+# But and utilisation
+Avec cet editeur, vous pourrez
+modifier la carte en changeant
+l'altitude des points, ou encore
+les textures... Pour ca, vous
+aurez plusieurs outils !
+
+# Description des outils
+
+# Affichage des textures ou non
+Dans le premier menu (avec l'icon
+des parametres), vous pourrez
+choisir d'afficher ou non
+les textures de carres.
+
+# Altitude des points...
+Dans le second (avec l'icon pinceau)
+Vous pourrez chosir entre point,
+lignes ou carres, et augmenter ou
+diminuer leur altitude en utilisant
+le click droit et gauche de la souris.
+Utilisez la bombe pour reinitialiser
+l'altitude d'un carre.
+
+# Selection des textures
+Dans le troisieme menu (avec
+le bloc de texture), vous pourrez
+choisir entre trois textures.
+Cliquez sur la texture, puis sur
+le carre que vous voulez.
+
+# Enregistrement
+La derniere partie du menu est
+l'enregistrement de la carte.
+Il vous suffit de cliquer sur
+l'icon pour enregistrer.
+
+# Comment quitter le menu
+Pour quitter un menu, il vous
+suffit de faire "Echap".
+
+# Changer la vue, zoomer
+Vous pouvez deplacer la carte
+avec les fleches du clavier,
+et zoomer/dezoomer avec la
+molette de votre souris.
+
+# Turbo mode
+Une derniere chose !
+En appuyant sur "Ctrl", vous
+accelererez l'action en cours.
+
+# Quitter l'editeur
+Appuyez sur Q pour quitter
+
+# Have Fun !
+Amusez-vous bien ! Editez bien !
+
+end:end

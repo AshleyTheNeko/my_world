@@ -1,0 +1,18 @@
+#FR VOC
+langue:francais
+play_btn:Lancer l'editeur
+outils:outils
+show_text:Afficher les textures ou les lignes
+add_line:Ajouter des carreaux
+remove_line:Enlever des carreaux
+apply_grass:Appliquer de l'herbe
+apply_cobble:Appliquer de la pierre
+apply_sand:Appliquer du sable
+select_corn:Selectionner des points
+select_tiles:Selectionner des carreaux
+level_tiles:Mettre un carreau a 0
+map_opt:Option de la carte
+select_opt:Options de selection
+apply_textu:Appliquer une texture
+save_map:Sauvegarder la carte
+alias_map:save.world

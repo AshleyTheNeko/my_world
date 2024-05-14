@@ -1,0 +1,78 @@
+############################################
+#  _______    _             _       _      #
+# |__   __|  | |           (_)     | |     #
+#    | |_   _| |_ ___  _ __ _  __ _| |     #
+#    | | | | | __/ _ \| '__| |/ _` | |     #
+#    | | |_| | || (_) | |  | | (_| | |     #
+#    |_|\__,_|\__\___/|_|  |_|\__,_|_|     #
+#                                          #
+############################################
+
+# Welcome on the tutorial configuration file !
+# Here, you are able to customize the tutorial texte to change
+# it in game. All lines starting by '#' and all empty lines will be ignored.
+# Be carreful ! You have to put the end-marker "end:end" at the end of the
+# tutorial, or you'll not be able to leave it in game !
+# If you want to remove the tutorial, remove all lines and only write the end-marker
+
+# Welcome & presentation
+Welcome young padawan!
+I'm Nao, Nao Marvin!
+I'll teach you how to
+use this editor.
+
+# Goal and utility
+With this editor, you will be
+able to modify a map by changing
+altitude of points, textures...
+For that, you have many tools !
+
+# Description of tools
+
+# Render texture or not
+In the first menu (with setting icon)
+You can choose if you want to
+display the textures or the lines.
+You can also increase and decrease
+the lines.
+
+# Change altitude of
+In the second (with the brush icon)
+You can select points or tiles
+and you can choose to inscrease
+or decrease their height using
+left and right click of your mouse.
+You can also choose the bomb, to
+reset the altitude.
+You can also use shortcuts :
+T for tile selection
+C for point selection
+L for leveling
+
+# Texture selection
+In the third menu (texture bloc)
+You can set the texture of tiles.
+You just have to select a texture,
+and click on a tile.
+
+# Saving Tools
+A click on the save icon
+will save the map.
+
+# How to leave a menu
+Just press escape to leave a menu.
+
+# Change view and zoom
+You can move with the arrow keys,
+and set zoom with scrool wheel.
+
+# Turbo mode
+Oh and, to speed things up,
+you can press left ctrl key !
+# Leave editor
+You can press Q to leave the game.
+
+# Have Fun !
+Have fun! Good editing!
+
+end:end

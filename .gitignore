@@ -1,0 +1,17 @@
+my_world
+*.o
+~*
+*~
+\#*#
+*.gcno
+*.gcda
+unit_tests
+*.a
+vgcore*
+.vscode
+*.out
+*.world
+log/*
+save.*
+*.py
+*.tgz

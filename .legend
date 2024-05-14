@@ -1,0 +1,5 @@
+x y
+point[y][x] height
+... x * y times
+tile[y][x] texture
+... (x - 1) * (y - 1) times
